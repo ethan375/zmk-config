@@ -1,0 +1,6 @@
+if SHIELD_FDM
+
+config ZMK_FDM
+    default "Split kb"
+
+endif
