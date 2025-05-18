@@ -1,2 +1,2 @@
-config SHEILD_FDM
+config SHIELD_FDM
    def_bool $(shields_list_contains, fdm)
